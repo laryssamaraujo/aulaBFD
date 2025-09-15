@@ -1,2 +1,2 @@
-print( "teste")
-print( "hello, wordl") #
+print("teste")
+print("hello, wordl")

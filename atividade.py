@@ -4,4 +4,7 @@ idade = int(input("Quantos anos você tem?"))
 
 altura = float(input("Qual altura você tem?"))
 
-obg = str(input("Obrigada!"))
+
+print(f"Olá, {nome}! É um prazer falar com você.")
+print(f"Você tem {idade} anos e tem {altura:.2f} de altura.")
+print("Obrigada!")
